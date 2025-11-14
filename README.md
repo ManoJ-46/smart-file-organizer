@@ -1,5 +1,3 @@
-# smart-file-organizer
-A simple Python script that organizes images, videos, and documents into clean folders. Lightweight and beginner-friendly.
 # Smart File Organizer
 
 A simple Python script to organize your messy folders into clean sections like Images, Videos, and Documents.  
