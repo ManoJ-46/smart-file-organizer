@@ -11,17 +11,6 @@ Clone this repo
     python run.py
 ```
 Enter the folder path when asked
-
-Example
-Before:
-Downloads/
-┣ photo1.jpg
-┣ notes.txt
-┗ movie.mp4
-
-After:
-Downloads/
-┣ Images/photo1.jpg
-┣ Documents/notes.txt
-┗ Videos/movie.mp4
-
+```
+copy the path from the file explorer of the folder you want to organize, then paste it in the terminal
+```
